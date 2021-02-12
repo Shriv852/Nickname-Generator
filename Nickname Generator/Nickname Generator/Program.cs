@@ -61,7 +61,7 @@ namespace Nickname_Generator
 
                         nicknames.Remove(Console.ReadLine());
 
-                    Console.WriteLine(Console.ReadLine() + " Has been removed!");
+                    Console.WriteLine("A chosen nickname has been removed!");
                     
                 } 
 
